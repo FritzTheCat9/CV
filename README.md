@@ -5,6 +5,7 @@ This is a console application designed for generating a personalized Curriculum 
 ## Example of Generated CV
 
 Here is an example of my CV, generated using this program:
+
 ![CV image](./CV/images/CV.png)
 
 ## How to Generate Your Own CV
