@@ -3,6 +3,7 @@
 This is a console application designed for generating a personalized Curriculum Vitae (CV) in PDF format. Using the app, you can easily customize your CV by editing a few files, and the program will create a professional-looking PDF for you.
 
 ## Example of Generated CV
+
 Here is an example of my CV, generated using this program:
 ![CV image](./CV/images/CV.png)
 
