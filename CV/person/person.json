@@ -1,0 +1,69 @@
+﻿{
+  "FirstName": "",
+  "LastName": "",
+  "JobTitle": "",
+  "TelephoneImage": "images/telephone.png",
+  "Telephone": "",
+  "EmailImage": "images/email.png",
+  "Email": "",
+  "LinkUrl": "",
+  "LinkImage": "images/at.png",
+  "SecondLinkUrl": "",
+  "SecondLinkImage": "images/github.png",
+  "LinkedinUrl": "",
+  "LinkedinImage": "images/linkedin.png",
+  "Image": "person/person.png",
+  "Experiences": [
+    {
+      "Position": "",
+      "Organisation": "",
+      "CalendarImage": "images/calendar.png",
+      "StartDate": "2024-01-01",
+      "EndDate": "2025-01-01",
+      "Descrptions": [
+        ""
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "Position": "",
+      "Organisation": "",
+      "CalendarImage": "images/calendar.png",
+      "StartDate": "2024-01-01",
+      "EndDate": "2025-01-01",
+      "Descrptions": []
+    }
+  ],
+  "Projects": [
+    {
+      "Name": "",
+      "Description": "",
+      "Link": ""
+    }
+  ],
+  "SkillsGroups": [
+    {
+      "GroupName": "",
+      "Skills": [
+        ""
+      ]
+    }
+  ],
+  "Courses": [
+    {
+      "Name": "",
+      "Description": ""
+    }
+  ],
+  "AboutMe": "",
+  "Languages": [
+    {
+      "Name": "",
+      "Description": ""
+    }
+  ],
+  "Hobbies": [
+    ""
+  ]
+}
